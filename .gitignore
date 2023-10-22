@@ -1,0 +1,8 @@
+grav/logs/*
+grav/user/*
+grav/cache/*
+grav/cache/compiled/config/*.php
+grav/cache/compiled/config/master-cli.php
+grav/cache/compiled/config/master-localhost.php
+grav/cache/compiled/blueprints/master-localhost.php
+grav/cache/compiled/blueprints/master-cli.php
